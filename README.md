@@ -1,6 +1,6 @@
 
 	######################################################################################################
-	LIS upgrade script - The goal of this script is to automatically upgrade LIS drivers to 4.1.3 version
+	LIS upgrade script - The goal of this script is to upgrade LIS drivers to 4.1.3 version
 	######################################################################################################
 
 #########################
