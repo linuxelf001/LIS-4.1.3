@@ -1,9 +1,7 @@
  
-	#########################
-	LIS upgrade script
-	#########################
-
-The goal of this script is to automatically upgrade the LIS version to 4.1.3
+	#################################################################################################
+	LIS upgrade script - The goal of this script is to automatically upgrade the LIS version to 4.1.3
+	#################################################################################################
 
 #########################
 How to
