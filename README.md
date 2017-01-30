@@ -1,12 +1,13 @@
- +-+-+-+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+
- |L|I|S| |U|p|g|r|a|d|e| |s|c|r|i|p|t|
- +-+-+-+ +-+-+-+-+-+-+-+ +-+-+-+-+-+-+
+ 
+	#########################
+	LIS upgrade script
+	#########################
 
 The goal of this script is to automatically upgrade the LIS version to 4.1.3
 
-+-+-+-+ +-+-+
-|H|o|w| |t|o|
-+-+-+-+ +-+-+
+#########################
+How to
+#########################
 
 1) Switch to root user account on Linux server (hosted on Azure), where you want to upgrade the LIS drivers to 4.1.3
 
