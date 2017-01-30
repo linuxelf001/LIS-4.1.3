@@ -1,4 +1,4 @@
- 
+If insa 
 	######################################################################################################
 	LIS upgrade script - The goal of this script is to automatically upgrade LIS drivers to 4.1.3 version
 	######################################################################################################
@@ -11,4 +11,4 @@ How to
 
 2) wget https://github.com/linuxelf001/LIS-4.1.3/blob/master/upgrade.sh; chmod u+x upgrade.sh; ./upgrade.sh
 
-3) Reboot the server
+3) Once installation is successful, reboot the server
