@@ -19,4 +19,3 @@ STATUS:	DEPRECTED IN FAVOR TO BELOW INSTRUCTIONS
 curl -L https://aka.ms/lis | tar xz 
 cd LISISO
 sudo ./upgrade.sh
-
