@@ -2,9 +2,7 @@
 	LIS upgrade script - The goal of this script is to upgrade LIS drivers to 4.2 version
 	######################################################################################################
 
-#########################
-How to
-#########################
+How to:
 
 1) Switch to root user account on Linux server (hosted on Azure), where you want to upgrade the LIS drivers to 4.2
 
@@ -12,4 +10,11 @@ How to
 
 3) Once installation is successful, reboot the server
 
-
+```
+		ABOVE SCRIPT IS DEPRECATED IN FAVOR TO BELOW INSTRUCTIONS
+```
+```
+curl -L https://aka.ms/lis | tar xz
+cd LISISO
+sudo ./upgrade.sh
+```
