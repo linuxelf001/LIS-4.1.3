@@ -12,10 +12,4 @@ How to
 
 3) Once installation is successful, reboot the server
 
-################################################
-STATUS:	DEPRECTED IN FAVOR TO BELOW INSTRUCTIONS
-################################################
 
-curl -L https://aka.ms/lis | tar xz 
-cd LISISO
-sudo ./upgrade.sh
